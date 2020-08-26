@@ -1,6 +1,3 @@
-# forum
-Curso de Spring boot
-
 <h1 align="center">
 Api - Forum
 </h1>
